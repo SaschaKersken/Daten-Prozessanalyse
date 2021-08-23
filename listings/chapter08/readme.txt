@@ -1,0 +1,1 @@
+Bevor Sie alle Beispiele in diesem Verzeichnis ausführen können, müssen Sie die beiden ZIP-Dateien mnist_train.zip und mnist_test.zip entpacken. Die entpackten Dateien haben dieselben Dateien mit der Endung csv und müssen sich danach ebenfalls im vorliegenden Verzeichnis befinden.

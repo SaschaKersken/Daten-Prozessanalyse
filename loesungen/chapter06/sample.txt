@@ -1,0 +1,9 @@
+Viele der Daten, die von Datenanalyse- und Machine-Learning-Algorithmen verarbeitet werden, sind Textdaten.
+Beispielsweise werden Texte automatisch in verschiedene Kategorien eingeordnet, gekürzt oder in erwünschte E-Mails und Spam unterteilt.
+Selbst die automatische Erzeugung neuer Texte, die existierenden Vorbildern ähneln, ist bereits möglich.
+Da Machine Learning auf linearer Algebra und Stochastik basiert und daher eigentlich nur mit Zahlen umgehen kann, müssen geeignete Verfahren eingesetzt werden, um die Daten sinnvoll zu konvertieren.
+Es hängt vom jeweiligen konkreten Einsatzzweck ab, ob die einzelnen Zeichen, die einzelnen Wörter oder Wortgruppen aus einem Text numerisch interpretiert werden müssen.
+In den folgenden Unterabschnitten lernen Sie alle drei Verfahren kennen.
+Um statt der einzelnen Zeichen die Wörter eines Textes zu betrachten, bietet sich das Format Bag of Words an.
+Dafür werden alle zu untersuchenden Strings in einzelne Wörter zerlegt, und anschließend wird für jeden Text ein Array erzeugt, das die Häufigkeit jedes Worts enthält.
+

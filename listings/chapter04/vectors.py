@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+
+plt.xlabel('x')
+plt.ylabel('y')
+plt.arrow(0, 0, 3, 3, head_width=0.1)
+plt.arrow(0, 0, -3, 2, head_width=0.1)
+plt.arrow(0, 0, -4, -1, head_width=0.1)
+plt.text(3.1, 3.1, 'v1')
+plt.text(-3.3, 2.2, 'v2')
+plt.text(-4.3, -1.2, 'v3')
+plt.grid()
+plt.axis([-5, 5, -5, 5])
+plt.axhline(linewidth=2)
+plt.axvline(linewidth=2)
+plt.show()
