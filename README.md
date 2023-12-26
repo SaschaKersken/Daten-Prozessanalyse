@@ -9,5 +9,4 @@ Informationen und Materialien (Listing, Lösungen) finden Sie auch [hier](https:
 
 [Errata](errata.md)
 
-Fragen, Anmerkungen oder Errata zum Buch bitte per E-Mail an [it-handbuch@sascha-kersken.de](mailto:it-handbuch@sascha-kersken.de).<br />
-Und/oder folgen Sie [@fidp_buch](https://twitter.com/fidp_buch) auf Twitter.
+Fragen, Anmerkungen oder Errata zum Buch bitte per E-Mail an [it-handbuch@sascha-kersken.de](mailto:it-handbuch@sascha-kersken.de).
