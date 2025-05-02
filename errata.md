@@ -1,7 +1,7 @@
 # Errata #
 
 ## S. 51/52 ##
-Auf Seite 51 steht die folgende Mengendefinition: P={x|x € N ^ x > 1 ^ x < 11}
+Auf Seite 51 steht die folgende Mengendefinition: P={x|x ∈ N ^ x > 1 ^ x < 11}
 
 Auf Seite 52 werden die konkreten Elemente der Menge als {2, 3, 4, 5, 6, 7, 8, 9} angegeben. Korrekt muss es {2, 3, 4, 5, 6, 7, 8, 9, 10} heißen. Die angegebene Kardinalität |P|=9 stimmt dann auch.
 
